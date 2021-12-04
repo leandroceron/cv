@@ -6,7 +6,7 @@ Contatos: leandrobc_2003@hotmail.com / https://www.linkedin.com/in/leandroceron/
 
 ## Área de Interesse
 Estou em busca de uma mudança de carreira para a área de TI, especialmente desenvolvimento.
-Sou um profissional estabelecido na área administrativa e busco me desafiar em uma primeira oportunidade em estágio para aprender programação e ter vvivência prática em deenvolvimento de software, mobile ou internet. Atualmente sou autodidata em Python.
+Sou um profissional estabelecido na área administrativa e busco me desafiar em uma primeira oportunidade em estágio para aprender programação e ter vivência prática em deenvolvimento de software, mobile ou internet. Atualmente sou autodidata em Python.
 
 ## Principais Experiências
 ### Administrador - Grupo Hospitalar Conceição
